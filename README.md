@@ -1,4 +1,23 @@
 # Machine Learning Model Optimization
+## Objective
+Evaluate several classification algorithms and pick the best & the worst ones based on accuracy. And, to explore techniques and best practices for fine-tuning and optimizing machine learning models
+## Python Packages
+  sklearn, Pandas, NumPy, seaborn, matplotlib & xgboost
+## XGBoost Installation
+  You may download and install it by running pip install xgboost in the terminal or command prompt After installing, you may run the following command from xgboost import XGBClassifier to import the XGBoost classifier.
+For further instructions please refer to the XGBoost installation guide (https://xgboost.readthedocs.io/en/latest/install.html)
+## Instructions to run
+### For Jupyter Notebook
+The folder contains three py files and should be run in the order mentioned below:
+● CS_677_Project_Sahil_Khanna_Final_1
+● CS_677_Project_Sahil_Khanna_Final_2 (Without Zip code)
+● CS_677_Project_Sahil_Khanna_Final_3 (with 50% training data)
+
+### For Spyder & other IDEs
+The folder contains three py files and should be run in the order mentioned below:
+● Final_1
+● Final_2 (Without Zip code)
+● Final_3 (with 50% training data)
 
 <img width="1438" alt="Screen Shot 2021-08-16 at 4 28 38 PM" src="https://user-images.githubusercontent.com/77642698/129625815-37d506e8-be24-4889-afa4-e7b1018a7aa9.png">
 <img width="1440" alt="Screen Shot 2021-08-16 at 4 28 47 PM" src="https://user-images.githubusercontent.com/77642698/129625821-09e6f1b7-2af6-41a9-87f9-55ae564aed37.png">
