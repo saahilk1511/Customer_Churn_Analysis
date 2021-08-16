@@ -9,14 +9,20 @@ For further instructions please refer to the XGBoost installation guide (https:/
 ## Instructions to run
 ### For Jupyter Notebook
 The folder contains three py files and should be run in the order mentioned below:
+
 ● CS_677_Project_Sahil_Khanna_Final_1
+
 ● CS_677_Project_Sahil_Khanna_Final_2 (Without Zip code)
+
 ● CS_677_Project_Sahil_Khanna_Final_3 (with 50% training data)
 
 ### For Spyder & other IDEs
 The folder contains three py files and should be run in the order mentioned below:
+
 ● Final_1
+
 ● Final_2 (Without Zip code)
+
 ● Final_3 (with 50% training data)
 
 <img width="1438" alt="Screen Shot 2021-08-16 at 4 28 38 PM" src="https://user-images.githubusercontent.com/77642698/129625815-37d506e8-be24-4889-afa4-e7b1018a7aa9.png">
