@@ -25,6 +25,8 @@ The folder contains three py files and should be run in the order mentioned belo
 
 ● Final_3 (with 50% training data)
 
+## Result
+
 <img width="1438" alt="Screen Shot 2021-08-16 at 4 28 38 PM" src="https://user-images.githubusercontent.com/77642698/129625815-37d506e8-be24-4889-afa4-e7b1018a7aa9.png">
 <img width="1440" alt="Screen Shot 2021-08-16 at 4 28 47 PM" src="https://user-images.githubusercontent.com/77642698/129625821-09e6f1b7-2af6-41a9-87f9-55ae564aed37.png">
 <img width="1440" alt="Screen Shot 2021-08-16 at 4 29 02 PM" src="https://user-images.githubusercontent.com/77642698/129625826-7de8e08f-0590-4cea-82e0-a6e498bcba99.png">
