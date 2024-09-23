@@ -7,16 +7,7 @@ Evaluate several classification algorithms and pick the best & the worst ones ba
   You may download and install it by running pip install xgboost in the terminal or command prompt After installing, you may run the following command from xgboost import XGBClassifier to import the XGBoost classifier.
 For further instructions please refer to the XGBoost installation guide (https://xgboost.readthedocs.io/en/latest/install.html)
 ## Instructions to run
-### For Jupyter Notebook
-The folder contains three py files and should be run in the order mentioned below:
-
-● CS_677_Project_Sahil_Khanna_Final_1
-
-● CS_677_Project_Sahil_Khanna_Final_2 (Without Zip code)
-
-● CS_677_Project_Sahil_Khanna_Final_3 (with 50% training data)
-
-### For Spyder & other IDEs
+### Notebooks
 The folder contains three py files and should be run in the order mentioned below:
 
 ● Final_1
